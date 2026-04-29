@@ -1,4 +1,4 @@
-# 🧠 A Controlled Study of Depth vs Parameters in Neural Networks
+# 🧠 A Deep Statistical Investigation of Depth vs Representational Capacity in Neural Networks
 
 ### Investigating whether neural network depth truly improves learning capacity
 
