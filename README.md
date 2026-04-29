@@ -5,7 +5,6 @@
 **Experiment ID:** `depth_experiment_v5`
 **Dataset:** Fashion-MNIST
 **Total Runs:** 1,800 models
-**Team:** Team Deviants
 
 ---
 
